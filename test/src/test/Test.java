@@ -1,5 +1,8 @@
 package test;
 
 public class Test {
-	// Ã¹ test.java »ý¼º
+	public static void main(String[] args) {
+		// ì²«ì¤„ ë‹¤ì‹œ ìž‘ì„±
+		
+	}
 }
